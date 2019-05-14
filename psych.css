@@ -17,11 +17,14 @@ body{
 
 .Bild span {
   position: absolute;
-  top: 50%;
-  text-align: center;
+  top: 0;
+  height: 80%;
   font-size: 7vw;
-  display: block;
-  width: 100%;
+  display: flex;
+  width: 80%;
+  align-items: center;
+  padding: 10%;
+  justify-content: center;
 
 }
 
